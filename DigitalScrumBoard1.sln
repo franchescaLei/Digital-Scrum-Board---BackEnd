@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalScrumBoard1", "DigitalScrumBoard1\DigitalScrumBoard1.csproj", "{CAA9484C-EC65-4ED2-AAE6-AF8CECBDC092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA9484C-EC65-4ED2-AAE6-AF8CECBDC092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA9484C-EC65-4ED2-AAE6-AF8CECBDC092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA9484C-EC65-4ED2-AAE6-AF8CECBDC092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA9484C-EC65-4ED2-AAE6-AF8CECBDC092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A76DE4-2990-4D7D-AEBA-E9C4A466A0B4}
+	EndGlobalSection
+EndGlobal
