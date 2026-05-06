@@ -1,0 +1,16 @@
+## .NET / Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+*.DotSettings.user
+
+## NuGet
+*.nupkg
+**/packages/*
+
+## User-specific
+*.rsuser
+*.sln.docuser
