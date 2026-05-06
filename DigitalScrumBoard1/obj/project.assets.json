@@ -5870,23 +5870,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\demis\\.nuget\\packages\\": {},
+    "C:\\Users\\franc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\demis\\source\\repos\\DigitalScrumBoard1\\DigitalScrumBoard1\\DigitalScrumBoard1.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\Source\\Repos\\Digital-Scrum-Board---BackEnd\\DigitalScrumBoard1\\DigitalScrumBoard1.csproj",
       "projectName": "DigitalScrumBoard1",
-      "projectPath": "c:\\Users\\demis\\source\\repos\\DigitalScrumBoard1\\DigitalScrumBoard1\\DigitalScrumBoard1.csproj",
-      "packagesPath": "C:\\Users\\demis\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\demis\\source\\repos\\DigitalScrumBoard1\\DigitalScrumBoard1\\obj\\",
+      "projectPath": "C:\\Users\\franc\\Source\\Repos\\Digital-Scrum-Board---BackEnd\\DigitalScrumBoard1\\DigitalScrumBoard1.csproj",
+      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\franc\\Source\\Repos\\Digital-Scrum-Board---BackEnd\\DigitalScrumBoard1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\demis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

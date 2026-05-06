@@ -31,8 +31,8 @@ builder.Services.AddAuthentication("MyCookieAuth")
     {
         options.Cookie.Name = "DigitalScrumBoardAuth";
         options.Cookie.HttpOnly = true;
-        options.Cookie.SecurePolicy = CookieSecurePolicy.SameAsRequest;
-        options.Cookie.SameSite = SameSiteMode.Lax;
+        options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+        options.Cookie.SameSite = SameSiteMode.None;
         options.Cookie.IsEssential = true;
 
         options.LoginPath = "/api/auth/login";
@@ -96,7 +96,8 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("DSB", policy =>
         policy.WithOrigins(
-                "http://192.168.19.18:7120"
+                "https://digital-scrum-board-front-end-11wc.vercel.app",
+                "http://192.168.19.18:7120"  // keep local for development
             )
               .AllowAnyHeader()
               .AllowAnyMethod()
